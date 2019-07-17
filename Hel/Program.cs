@@ -22,4 +22,3 @@ namespace Hel
                 .UseStartup<Startup>();
     }
 }
-//Nur ein Test. Bitte löschen!
